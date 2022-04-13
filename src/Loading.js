@@ -12,7 +12,7 @@ function Loading(){
 export default Loading
 
 const Wrapper = styled.div`
-    background-color: lightblue;
+    background-color: #ffb703;
     padding-top: 7rem;
     height: 100vh;
     text-align: center;
